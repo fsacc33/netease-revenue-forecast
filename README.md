@@ -28,3 +28,13 @@ This tool helps investors and financial analysts quickly estimate NetEase's futu
 ```bash
 pip install streamlit pandas numpy scikit-learn matplotlib
 streamlit run "netease revenue predict.py"
+
+##6. Product Link 
+https://netease-revenue-forecast-95q4hdztwlydncf5exzmpj.streamlit.app/
+
+##7. Limitations & Next Steps
+Simple linear model does not capture seasonal patterns or market changes
+
+Future improvements: add moving average, or external factors like game releases
+
+Consider adding net income or other financial metrics for comparison
