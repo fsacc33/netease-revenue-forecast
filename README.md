@@ -27,7 +27,7 @@ This tool helps investors and financial analysts quickly estimate NetEase's futu
 ## 5. How to Run Locally
 ```bash
 pip install streamlit pandas numpy scikit-learn matplotlib
-streamlit run "netease revenue predict.py"
+streamlit run "netease revenue predict.py"```
 
 
 ## 6. Product Link
